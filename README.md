@@ -111,7 +111,7 @@ The following text vectorization techniques were implemented:
 │   └── Trained sentiment classification model
 ├── tfidf_vectorizer.pkl
 │   └── TF-IDF feature extractor
-├── Untitled62.ipynb
+├── flipkart-sentiment-analysis.ipynb
 │   └── Model training, preprocessing, and experimentation notebook
 └── README.md
     └── Project documentation
