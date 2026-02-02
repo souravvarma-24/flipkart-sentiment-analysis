@@ -104,11 +104,18 @@ The following text vectorization techniques were implemented:
 
 ## 📁 Project Structure
 
-├── app.py                     # Streamlit web application
-├── sentiment_model.pkl        # Trained sentiment classification model
-├── tfidf_vectorizer.pkl       # TF-IDF vectorizer
-├── Untitled62.ipynb           # Model training & experimentation notebook
-└── README.md                  # Project documentation
+```text
+├── app.py
+│   └── Streamlit web application for real-time sentiment analysis
+├── sentiment_model.pkl
+│   └── Trained sentiment classification model
+├── tfidf_vectorizer.pkl
+│   └── TF-IDF feature extractor
+├── Untitled62.ipynb
+│   └── Model training, preprocessing, and experimentation notebook
+└── README.md
+    └── Project documentation
+```
 
 ---
 
@@ -116,9 +123,10 @@ The following text vectorization techniques were implemented:
 
 This project successfully demonstrates an end-to-end **Sentiment Analysis system for Flipkart product reviews**.
 
-Multiple NLP techniques such as **Bag of Words, TF-IDF, Word2Vec, and BERT embeddings** were implemented and evaluated using the **F1-Score** to ensure reliable performance.
+Multiple NLP techniques such as **Bag of Words, TF-IDF, Word2Vec, and BERT embeddings** were implemented and evaluated using the **F1-Score**, ensuring reliable and consistent performance.
 
 A **Streamlit-based web application** was developed to provide **real-time sentiment prediction** for user-entered reviews.  
-The project follows proper **data preprocessing, model training, evaluation, and deployment** practices, making it suitable for real-world applications and scalable deployment on **AWS EC2**.
+The project follows standard practices in **data preprocessing, model training, evaluation, and deployment**, making it suitable for real-world usage and scalable deployment on **AWS EC2**.
 
-Overall, this project provides hands-on experience in **Natural Language Processing, Machine Learning, and Model Deployment**, fully aligning with the project requirements.
+Overall, this project provides strong hands-on experience in **Natural Language Processing, Machine Learning, and Model Deployment**, fully satisfying the project and internship requirements.
+, fully aligning with the project requirements.
