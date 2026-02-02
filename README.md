@@ -113,8 +113,10 @@ The following text vectorization techniques were implemented:
 
 ---
 
+---
 
-## ✅ Conclusion
+## 🛠Conclusion
+
 
 This project successfully demonstrates an end-to-end **Sentiment Analysis system for Flipkart product reviews**.  
 Multiple NLP techniques such as **Bag of Words, TF-IDF, Word2Vec, and BERT embeddings** were implemented and evaluated using **F1-Score** to ensure reliable performance.
